@@ -1,5 +1,9 @@
 # This is my project title
 
+FakeNFTMarketplace deployed to:  0x0fcDb6B3D5113966717723D1eAB4415D58ecF81D
+CryptoDevsDAO deployed to:  0xc6eCACcE049b3791f0d45f8704b1b7C490882c46
+
+
 This sentence describes what my project is about summarized.
 
 ## More Details
